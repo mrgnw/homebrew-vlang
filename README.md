@@ -1,13 +1,8 @@
-Homebrew tap for vlang
-
-forked from [homebrew-blakek](https://github.com/blakek/homebrew-blakek).
-
-> 🍺 Homebrew tap for my scripts
+Homebrew tap for vlang, forked from [homebrew-blakek](https://github.com/blakek/homebrew-blakek).
 
 ## Usage
 
-After you install [Homebrew](https://brew.sh/), run the following command in
-your terminal:
+Using [Homebrew](https://brew.sh/) you can install v with this command:
 
 ```bash
 brew install mrgnw/v/vlang
